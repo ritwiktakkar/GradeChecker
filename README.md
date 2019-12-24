@@ -26,7 +26,7 @@ What things you need to install the software and how to install them
 * [chromedriver](https://chromedriver.chromium.org/) - "Automated testing of webapps across many browsers"
 
 
-## Authors
+## Author
 
 * **Ritwik Takkar** - [GitHub](https://github.com/rtakk)
 
