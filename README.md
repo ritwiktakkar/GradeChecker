@@ -5,9 +5,6 @@ This program uses a command-line interface to display the final semester grades 
 ## [Video Demo Link](https://imgur.com/KwoLvBw)
 Click above to see a video demo of this program
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Built With
 
