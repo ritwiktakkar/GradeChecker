@@ -2,7 +2,7 @@
 
 This program uses a command-line interface to display the final semester grades of Syracuse University students by accessing the university's web portal, MySlice, and scraping the site to find their grades. 
 
-## [Video Demo Link](https://imgur.com/KwoLvBw)
+## [Video Demo Link](https://ritwiktakkar.com/projects/#grade-checker)
 Click above to see a video demo of this program
 
 
