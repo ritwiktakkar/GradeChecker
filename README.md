@@ -15,7 +15,7 @@ Click above to see a video demo of this program
 
 ## Author
 
-* **Ritwik Takkar** - [GitHub](https://github.com/tryrestartingit)
+* **Ritwik Takkar** - [GitHub](https://github.com/ritwiktakkar)
 
 ## Acknowledgments
 
